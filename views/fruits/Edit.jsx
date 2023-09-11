@@ -35,5 +35,3 @@ class Edit extends React.Component {
 }
 
 module.exports = Edit;
-
-module.exports = Edit;
